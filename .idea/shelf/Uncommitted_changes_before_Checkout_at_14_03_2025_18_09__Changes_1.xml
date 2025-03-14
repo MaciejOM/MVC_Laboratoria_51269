@@ -1,0 +1,9 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_14_03_2025_18_09_[Changes]1" date="1741972150322" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_03_2025_18_09_[Changes]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 14.03.2025 18:09 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="Python/djangotutorial/db.sqlite3" />
+    <option name="AFTER_PATH" value="Python/djangotutorial/db.sqlite3" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_03_2025_18_09_[Changes]1/db.sqlite3" />
+  </binary>
+</changelist>
