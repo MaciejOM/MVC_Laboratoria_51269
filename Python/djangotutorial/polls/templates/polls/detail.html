@@ -3,6 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <title>Detail</title>
+    {% load static %}
+
+    <link rel="stylesheet" href="{% static 'polls/style.css' %}">
 </head>
 <body>
 <h1>{{ question.question_text }}</h1>
