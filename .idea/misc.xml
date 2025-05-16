@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+=======
+  <component name="Black">
+    <option name="sdkName" value="Python 3.13" />
+  </component>
+>>>>>>> Lab11
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (MVC_Laboratoria_51269)" project-jdk-type="Python SDK" />
 </project>
