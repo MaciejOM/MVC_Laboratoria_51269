@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\dot_net\\mvcmovie\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\dot_net\\mvcmovie\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\dot_net\\mvcmovie\\mvcmovie\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\dot_net\\mvcmovie\\mvcmovie\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\dot_net\\mvcmovie\\mvcmovie\\migrations\\20250515131644_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\migrations\\20250515131644_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\dot_net\\mvcmovie\\mvcmovie\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\dot_net\\mvcmovie\\mvcmovie\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\dot_net\\mvcmovie\\mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\dot_net\\mvcmovie\\mvcmovie\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\dot_net\\mvcmovie\\mvcmovie\\data\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\data\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\dot_net\\mvcmovie\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\dot_net\\mvcmovie\\mvcmovie\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\dot_net\\mvcmovie\\mvcmovie\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\dot_net\\mvcmovie\\mvcmovie\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\dot_net\\mvcmovie\\mvcmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\dot_net\\mvcmovie\\mvcmovie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\dot_net\\mvcmovie\\mvcmovie\\migrations\\20250516092144_rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5A25F1-41D7-46FF-991D-F97A43052492}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\migrations\\20250516092144_rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Models\\SeedData.cs",
+              "RelativeToolTip": "MvcMovie\\Models\\SeedData.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:35:15.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250516092144_Rating.cs",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Migrations\\20250516092144_Rating.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Migrations\\20250516092144_Rating.cs",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Migrations\\20250516092144_Rating.cs",
+              "RelativeToolTip": "MvcMovie\\Migrations\\20250516092144_Rating.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:21:44.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovieGenreViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Models\\MovieGenreViewModel.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Models\\MovieGenreViewModel.cs",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Models\\MovieGenreViewModel.cs",
+              "RelativeToolTip": "MvcMovie\\Models\\MovieGenreViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:13:58.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T09:08:31.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Movies\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T09:02:19.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T09:02:13.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250515131644_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Migrations\\20250515131644_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Migrations\\20250515131644_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Migrations\\20250515131644_InitialCreate.cs",
+              "RelativeToolTip": "MvcMovie\\Migrations\\20250515131644_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:02:05.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MvcMovie\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAwKkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:53:04.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Models\\Movie.cs",
+              "RelativeToolTip": "MvcMovie\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:56:44.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T09:02:22.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MvcMovieContext.cs",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Data\\MvcMovieContext.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Data\\MvcMovieContext.cs",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Data\\MvcMovieContext.cs",
+              "RelativeToolTip": "MvcMovie\\Data\\MvcMovieContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:53:37.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T08:57:51.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T09:02:57.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T09:02:56.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Views\\Movies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Views\\Movies\\Delete.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Movies\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T09:02:21.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Program.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Program.cs",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\Program.cs",
+              "RelativeToolTip": "MvcMovie\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:54:31.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcMovie\\appsettings.json",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\Dot_Net\\MvcMovie\\MvcMovie\\appsettings.json",
+              "RelativeToolTip": "MvcMovie\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T08:53:52.819Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
