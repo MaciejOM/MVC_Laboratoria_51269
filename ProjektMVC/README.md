@@ -26,6 +26,6 @@ Aplikacja zawiera następujące funkcje:
 ## 3. Instrukcja obsługi
 
 1. Otwórz Rozwiązanie aplikacji w Visual Studio,
-2. Uruchom Aplikację (F5 lub "Debuguj > Rozpocznij debugowanie"),
+2. Uruchom Aplikację (F5 lub w "Debuguj > Rozpocznij debugowanie"),
 3. Aplikacja teraz otworzy się automatycznie w przeglądarce i działa pod portem "https://localhost:7279/",
 4. Teraz aplikacja będzie działać, dopóki nie wyłączysz Visual Studio.
