@@ -1,0 +1,65 @@
+﻿@model MvcHomework.Models.HomeworkStatusViewModel;
+
+@{
+    ViewData["Title"] = "Moje Zadania Domowe";
+}
+
+<h1>Moje Zadania Domowe</h1>
+
+<p>
+    <a asp-action="Create">Dodaj Nowe Zadanie</a>
+</p>
+
+<form asp-controller="Homework" asp-action="Index" method="get">
+    <p>
+        <select asp-for="HomeworkStatus" asp-items="Model.Status">
+            <option value="">Wszystko</option>
+        </select>
+
+        <label>Przedmiot: <input type="text" asp-for="SearchString" /></label>
+        <input type="submit" value="Wyszukaj" />
+    </p>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Homeworks![0].Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Homeworks![0].Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Homeworks![0].DueDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Homeworks![0].Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Homeworks!) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DueDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edytuj</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Szczegóły</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Usuń</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
