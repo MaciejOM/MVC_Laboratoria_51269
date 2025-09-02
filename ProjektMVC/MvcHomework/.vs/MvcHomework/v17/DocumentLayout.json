@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\projektmvc\\mvchomework\\mvchomework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|solutionrelative:mvchomework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\projektmvc\\mvchomework\\mvchomework\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|solutionrelative:mvchomework\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\projektmvc\\mvchomework\\mvchomework\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|solutionrelative:mvchomework\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\projektmvc\\mvchomework\\mvchomework\\models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|solutionrelative:mvchomework\\models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\projektmvc\\mvchomework\\mvchomework\\controllers\\homeworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|solutionrelative:mvchomework\\controllers\\homeworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\projektmvc\\mvchomework\\mvchomework\\views\\homework\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|solutionrelative:mvchomework\\views\\homework\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\projektmvc\\mvchomework\\mvchomework\\views\\homework\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|solutionrelative:mvchomework\\views\\homework\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\projektmvc\\mvchomework\\mvchomework\\views\\homework\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|solutionrelative:mvchomework\\views\\homework\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\projektmvc\\mvchomework\\mvchomework\\views\\homework\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|solutionrelative:mvchomework\\views\\homework\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\projektmvc\\mvchomework\\mvchomework\\views\\homework\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|solutionrelative:mvchomework\\views\\homework\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\projektmvc\\mvchomework\\mvchomework\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|solutionrelative:mvchomework\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\projektmvc\\mvchomework\\mvchomework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|solutionrelative:mvchomework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\projektmvc\\mvchomework\\mvchomework\\models\\homeworkstatusviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|solutionrelative:mvchomework\\models\\homeworkstatusviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|c:\\users\\churu\\pycharmprojects\\mvc_laboratoria_51269\\projektmvc\\mvchomework\\mvchomework\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{78822B7D-F2F3-4414-9B12-B33B2C41A993}|MvcHomework\\MvcHomework.csproj|solutionrelative:mvchomework\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcHomework\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcHomework\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T07:53:05.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcHomework\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcHomework\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T17:46:54.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "MvcHomework\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Models\\SeedData.cs",
+              "RelativeToolTip": "MvcHomework\\Models\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T17:46:46.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Views\\Homework\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvcHomework\\Views\\Homework\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Views\\Homework\\Edit.cshtml",
+              "RelativeToolTip": "MvcHomework\\Views\\Homework\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T16:45:33.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Views\\Homework\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcHomework\\Views\\Homework\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Views\\Homework\\Create.cshtml",
+              "RelativeToolTip": "MvcHomework\\Views\\Homework\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T16:45:31.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Views\\Homework\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MvcHomework\\Views\\Homework\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Views\\Homework\\Delete.cshtml",
+              "RelativeToolTip": "MvcHomework\\Views\\Homework\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T16:44:54.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Views\\Homework\\Details.cshtml",
+              "RelativeDocumentMoniker": "MvcHomework\\Views\\Homework\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Views\\Homework\\Details.cshtml",
+              "RelativeToolTip": "MvcHomework\\Views\\Homework\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T16:36:09.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MvcHomework\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MvcHomework\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-04T16:26:01.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "MvcHomework\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "MvcHomework\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-04T16:23:58.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcHomework\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcHomework\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T16:22:16.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Homework.cs",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Models\\Homework.cs",
+              "RelativeDocumentMoniker": "MvcHomework\\Models\\Homework.cs",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Models\\Homework.cs",
+              "RelativeToolTip": "MvcHomework\\Models\\Homework.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:19:43.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeworkStatusViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Models\\HomeworkStatusViewModel.cs",
+              "RelativeDocumentMoniker": "MvcHomework\\Models\\HomeworkStatusViewModel.cs",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Models\\HomeworkStatusViewModel.cs",
+              "RelativeToolTip": "MvcHomework\\Models\\HomeworkStatusViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:09:47.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Views\\Homework\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcHomework\\Views\\Homework\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Views\\Homework\\Index.cshtml",
+              "RelativeToolTip": "MvcHomework\\Views\\Homework\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T16:07:10.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeworkController.cs",
+              "DocumentMoniker": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Controllers\\HomeworkController.cs",
+              "RelativeDocumentMoniker": "MvcHomework\\Controllers\\HomeworkController.cs",
+              "ToolTip": "C:\\Users\\Churu\\PycharmProjects\\MVC_Laboratoria_51269\\ProjektMVC\\MvcHomework\\MvcHomework\\Controllers\\HomeworkController.cs",
+              "RelativeToolTip": "MvcHomework\\Controllers\\HomeworkController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:03:34.224Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

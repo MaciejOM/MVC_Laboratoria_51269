@@ -1,0 +1,8 @@
+Index: Don_net/.gitignore
+===================================================================
+diff --git a/Don_net/.gitignore b/Don_net/.gitignore
+deleted file mode 100644
+--- a/Don_net/.gitignore	(revision 5bcd1f1f6d8bd2ddfd0debd8da0782048c0ecd83)
++++ /dev/null	(revision 5bcd1f1f6d8bd2ddfd0debd8da0782048c0ecd83)
+@@ -1,1 +0,0 @@
+-
